@@ -4,12 +4,12 @@ Le stage est une période d’activité durant laquelle l’étudiant met en app
 C’est dans ce cadre que nous avons effectué notre stage à l’AGRFUWT (l’Agence de Gestion et de Régulation Foncière Urbaine de la Wilaya de Tiaret). A travers ce stage qui a déroulé du 17 Avril au 15 Mai 2017, nous avons pu avoir une idée précise sur notre projet professionnel en bénéficiant d’être en plein emploi. On a eu l’occasion de vivre dans cette harmonie et un air de collaboration, cette dernière nous a aidés énormément à dépasser plusieurs difficultés rencontrées. 
  
 Durant cette période de stage, l’objectif visé c’était la conception et la réalisation d’une application de gestion des moyens généraux. 
-
- ###   Diagramme de classe
+ ## Conception et Modélisation  
+ ####   Diagramme de classe
 ![Diagramme de classe](https://github.com/djamelzerrouki/App-Gestion-de-moyens-generaux/blob/master/Captures/Capture1.PNG?raw=true "Diagramme de classe" )
 
 ##  L’Application 
-### Page de Login
+#### Page de Login
 ![](https://github.com/djamelzerrouki/App-Gestion-de-moyens-generaux/blob/master/Captures/Capture2.PNG?raw=true "login" )
 
 <div style="text-align: center">
