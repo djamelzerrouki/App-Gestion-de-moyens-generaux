@@ -5,7 +5,11 @@ C’est dans ce cadre que nous avons effectué notre stage à l’AGRFUWT (l’A
  
 Durant cette période de stage, l’objectif visé c’était la conception et la réalisation d’une application de gestion des moyens généraux. 
  ## Conception et Modélisation  
+ ####  Diagramme de cas d'utilisation
+ Le diagramme de cas d’utilisation permet la représentation des fonctions du système Ainsi, de modéliser les interactions de chaque acteur avec l’application 
+ ![Diagramme de cas d'utilisation](https://github.com/djamelzerrouki/App-Gestion-de-moyens-generaux/blob/master/Captures/Capture0.PNG?raw=true "Diagramme de cas d'utilisation" )
  ####   Diagramme de classe
+ Le diagramme de classe établit la représentation de la structure statique en termes de classes et de relations. 
 ![Diagramme de classe](https://github.com/djamelzerrouki/App-Gestion-de-moyens-generaux/blob/master/Captures/Capture1.PNG?raw=true "Diagramme de classe" )
 
 ##  L’Application 
