@@ -4,3 +4,43 @@ Le stage est une période d’activité durant laquelle l’étudiant met en app
 C’est dans ce cadre que nous avons effectué notre stage à l’AGRFUWT (l’Agence de Gestion et de Régulation Foncière Urbaine de la Wilaya de Tiaret). A travers ce stage qui a déroulé du 17 Avril au 15 Mai 2017, nous avons pu avoir une idée précise sur notre projet professionnel en bénéficiant d’être en plein emploi. On a eu l’occasion de vivre dans cette harmonie et un air de collaboration, cette dernière nous a aidés énormément à dépasser plusieurs difficultés rencontrées. 
  
 Durant cette période de stage, l’objectif visé c’était la conception et la réalisation d’une application de gestion des moyens généraux. 
+ ## Conception et Modélisation  
+ ####  Diagramme de cas d'utilisation
+ Le diagramme de cas d’utilisation permet la représentation des fonctions du système Ainsi, de modéliser les interactions de chaque acteur avec l’application 
+ ![Diagramme de cas d'utilisation](https://github.com/djamelzerrouki/App-Gestion-de-moyens-generaux/blob/master/Captures/Capture0.PNG?raw=true "Diagramme de cas d'utilisation" )
+ ####   Diagramme de classe
+ Le diagramme de classe établit la représentation de la structure statique en termes de classes et de relations. 
+![Diagramme de classe](https://github.com/djamelzerrouki/App-Gestion-de-moyens-generaux/blob/master/Captures/Capture1.PNG?raw=true "Diagramme de classe" )
+
+##  L’Application 
+#### Page de Login
+![](https://github.com/djamelzerrouki/App-Gestion-de-moyens-generaux/blob/master/Captures/Capture2.PNG?raw=true "login" )
+
+<div style="text-align: center">
+    <table>
+   <tr>
+  <td style="text-align: center"><H2  >Page utilisateur  </H2>
+   <img src="https://github.com/djamelzerrouki/App-Gestion-de-moyens-generaux/blob/master/Captures/Capture10.PNG" width="500"/>   </td>            
+<td style="text-align: center"><H2  >  page d’accueil </H2>      
+<img src="https://github.com/djamelzerrouki/App-Gestion-de-moyens-generaux/blob/master/Captures/Capture3.PNG" width="500"/></td>
+<tr>
+ <tr>
+  <td style="text-align: center"><H2  > La page de Fournisseur  </H2>
+   <img src="https://github.com/djamelzerrouki/App-Gestion-de-moyens-generaux/blob/master/Captures/Capture4.PNG" width="500"/>   </td>            
+<td style="text-align: center"><H2  > La page d’entrée  </H2>      
+<img src="https://github.com/djamelzerrouki/App-Gestion-de-moyens-generaux/blob/master/Captures/Capture5.PNG" width="500"/></td>
+<tr> 
+ <tr>
+  <td style="text-align: center"><H2  > La page Sortie  </H2>
+   <img src="https://github.com/djamelzerrouki/App-Gestion-de-moyens-generaux/blob/master/Captures/Capture6.PNG" width="500"/>   </td>            
+<td style="text-align: center"><H2  >  La page journal </H2>      
+<img src="https://github.com/djamelzerrouki/App-Gestion-de-moyens-generaux/blob/master/Captures/Capture7.PNG" width="500"/></td>
+<tr> 
+ <tr>
+  <td style="text-align: center"><H2  > La page Catégorie  </H2>
+   <img src="https://github.com/djamelzerrouki/App-Gestion-de-moyens-generaux/blob/master/Captures/Capture8.PNG" width="500"/>   </td>            
+<td style="text-align: center"><H2  >  La page Service </H2>      
+<img src="https://github.com/djamelzerrouki/App-Gestion-de-moyens-generaux/blob/master/Captures/Capture9.PNG" width="500"/></td>
+<tr> 
+  </table>
+  </div>
